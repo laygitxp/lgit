@@ -4,3 +4,4 @@ git checkout -- readme.txt
 test push command
 creating a new brache is quick.
 test vi and branch.
+edit in dev branch and add in dev but willnot commit in dev.
