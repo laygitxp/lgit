@@ -1,7 +1,7 @@
 Git is a distributed version control system123456.
 Git is free software.
 git checkout -- readme.txt
-test push command
+test push command and add new word 20160824 9 15
 creating a new brache is quick.
 test vi and branch.
 edit in dev branch and add in dev but willnot commit in dev.
